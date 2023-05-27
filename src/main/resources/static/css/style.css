@@ -9809,4 +9809,4 @@ sbar::after {
 
 #touch {position: absolute; opacity: 0; height: 0px;}
 
-#touch:checked + .slide {height: 1200px;}
+#touch:checked + .slide {height: max-content;}
