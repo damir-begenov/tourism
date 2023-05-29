@@ -97,7 +97,7 @@ h6 {
 }
 
 p {
-  color: var(--p-color);
+  color: black;
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-normal);
 }
@@ -743,7 +743,7 @@ strong {
   }
 
   .events-listing-section {
-    margin-bottom: 50px;
+    margin-top: -90px;
   }
 
   .events-detail-section .custom-block-info {

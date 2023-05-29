@@ -7587,6 +7587,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
+    margin-top: -30px;
     padding-top: 3rem !important;
 }
 
@@ -9791,11 +9792,7 @@ sbar {
     display: block;
 }
 
-sbar::after {
-    float: right;
-    right: 10%;
-    content: "+";
-}
+
 
 .slide {
     clear:both;
@@ -9810,3 +9807,9 @@ sbar::after {
 #touch {position: absolute; opacity: 0; height: 0px;}
 
 #touch:checked + .slide {height: max-content;}
+#touchk {position: absolute; opacity: 0; height: 0px;}
+#touchk:checked + .slide {height: max-content;}
+#touchkk {position: absolute; opacity: 0; height: 0px;}
+#touchkk:checked + .slide {height: max-content;}
+#touchkkk {position: absolute; opacity: 0; height: 0px;}
+#touchkkk:checked + .slide {height: max-content;}
