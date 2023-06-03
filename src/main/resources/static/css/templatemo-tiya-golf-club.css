@@ -389,7 +389,7 @@ strong {
 }
 
 .custom-block-span {
-  color: var(--secondary-color);
+  color: #170303;
   font-weight: var(--font-weight-bold);
   min-width: 110px;
   margin-right: 10px;
@@ -743,7 +743,7 @@ strong {
   }
 
   .events-listing-section {
-    margin-top: -90px;
+    margin-block: -90px;
   }
 
   .events-detail-section .custom-block-info {
