@@ -58,8 +58,5 @@ public class Controller {
     public String mangistau() {
         return "mangistau";
     }
-    @GetMapping("/df")
-    public String mangistalu() {
-        return "df";
-    }
+
 }
